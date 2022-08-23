@@ -1,5 +1,6 @@
 # Project_DeeP
-Our goal is to implement and transform novel deep learning models directly following them.
+
+##Our goal is to implement and transform novel deep learning models directly following them.
 
 
 #### 안녕하세요 유용하고 흥미로운 주제를 가진 논문을 읽고 구현해보는 프로젝트 Github 입니다.
